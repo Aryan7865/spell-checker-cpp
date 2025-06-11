@@ -24,6 +24,7 @@ This program implements a spell checker that takes a string (a sentence or parag
 
 You can also find a screenshot of the program's output below:
 
+![Screenshot 2025-06-11 125932](https://github.com/user-attachments/assets/e70d0713-14dd-40d3-ab88-d6560435e112)
 
 
 
